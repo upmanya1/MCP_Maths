@@ -1,0 +1,5 @@
+mcp 
+python-dotenv 
+nest_asyncio 
+langchain_google_genai 
+requests
